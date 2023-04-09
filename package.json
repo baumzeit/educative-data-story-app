@@ -32,6 +32,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@tabler/icons-svelte": "^2.14.0"
+		"@tabler/icons-svelte": "^2.14.0",
+		"@types/d3-dsv": "^3.0.1",
+		"d3-dsv": "^3.0.1"
 	}
 }
